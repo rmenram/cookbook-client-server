@@ -24,7 +24,7 @@ To run this project, open two separate terminal windows side-by-side:
 
 The big-picture purpose of building this tool was to create a communication layer using TCP. Eventually, this will allow an external file-monitoring tool (like a background folder watcher written in Rust) to tell a Python backend processor exactly when a new file has arrived.
 
-[Software Demo Video](http://goes.here)
+[Software Demo Video](https://youtu.be/43J5HmC0Mf8)
 
 # Network Communication
 
